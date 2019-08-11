@@ -8,7 +8,7 @@ Library Used:
 - binascii
 - OptParse
 
-####How to run
+#### How to run
 `lsb -e/-d <target file>`
 
 ![alt text](http://i.ibb.co/QpKJXFh/yooo.png)

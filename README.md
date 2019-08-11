@@ -1,4 +1,4 @@
-### Least Significant Bit Encryption
+# Least Significant Bit Encryption
 
 Script to encrypt/decrypt text into images using the Least Significant Bit Encryption.
 

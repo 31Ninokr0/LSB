@@ -9,7 +9,7 @@ Library Used:
 - OptParse
 
 #### How to run
-`lsb -e/-d <target file>`
+`./lsb.py -e/-d <target file>`
 
 ![alt text](http://i.ibb.co/QpKJXFh/yooo.png)
 
